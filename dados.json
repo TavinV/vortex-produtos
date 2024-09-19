@@ -1,0 +1,50 @@
+[
+{
+    "nome": "Tênis Mizuno Wave Momentum 3",
+    "valor" : 1230.50,
+    "frete-gratis" : true,
+    "cores-disponiveis": 2,
+<<<<<<< HEAD
+    "imagem" : "<img src=\"img/mizuno wave momentum 3.webp\" class=\"square-img\">",
+=======
+    "imagem" : "img/mizuno wave momentum 3.webp",
+>>>>>>> a9408dc042dfdb54d9281d539f162160d25221d8
+    "img_class" : "square-img"
+},
+{
+    "nome": "Tênis Nike React Hyperset",
+    "valor" : 1570.89,
+    "frete-gratis" : true,
+    "cores-disponiveis": 5,
+<<<<<<< HEAD
+    "imagem" : "<img src=\"img/nike-hyperset.jpeg\" class=\"long-rec-img\">",
+=======
+    "imagem" : "img/camisapraiagrande.png",
+>>>>>>> a9408dc042dfdb54d9281d539f162160d25221d8
+    "img_class" : "long-rec-img"
+},
+{
+    "nome": "Camisa Praia Grande",
+    "valor" : 170.10,
+    "frete-gratis" : false,
+    "cores-disponiveis": 1,
+<<<<<<< HEAD
+    "imagem": "<img src=\"img/camisapraiagrande.png\" class=\"long-rec-img\">",
+=======
+    "imagem": "img/camisapraiagrande.png",
+>>>>>>> a9408dc042dfdb54d9281d539f162160d25221d8
+    "img_class" : "long-rec-img"
+},
+{
+    "nome": "Bola mikasa v200w",
+    "valor" : 945.00,
+    "frete-gratis" : true,
+    "cores-disponiveis": 1,
+<<<<<<< HEAD
+    "imagem": "<img src=\"img/mikasa.jpg\" class=\"square-img\">",
+=======
+    "imagem": "img/mikasa.jpg",
+>>>>>>> a9408dc042dfdb54d9281d539f162160d25221d8
+    "img_class" : "square-img"
+}
+]
