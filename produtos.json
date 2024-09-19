@@ -21,7 +21,7 @@
     "frete-gratis" : false,
     "cores-disponiveis": 1,
     "imagem": "<img src=\"img/camisapraiagrande.png\" class=\"long-rec-img\">",
-    "img_class" : "long-rec-img"
+    "img_class" : "tall-rec-img"
 },
 {
     "nome": "Bola mikasa v200w",
