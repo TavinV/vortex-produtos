@@ -1,7 +1,7 @@
 [
 {
     "nome": "Tênis Mizuno Wave Momentum 3",
-    "valor" : 1230.50,
+    "valor" : "1230.50",
     "frete-gratis" : true,
     "cores-disponiveis": 2,
     "imagem" : "img/mizuno wave momentum 3.webp",
@@ -9,7 +9,7 @@
 },
 {
     "nome": "Tênis Nike React Hyperset",
-    "valor" : 1570.89,
+    "valor" : "1570.89",
     "frete-gratis" : true,
     "cores-disponiveis": 5,
     "imagem" : "img/nike-hyperset.jpeg",
@@ -17,7 +17,7 @@
 },
 {
     "nome": "Camisa Praia Grande",
-    "valor" : 170.10,
+    "valor" : "170.10",
     "frete-gratis" : false,
     "cores-disponiveis": 1,
     "imagem": "img/camisapraiagrande.png",
@@ -25,7 +25,7 @@
 },
 {
     "nome": "Bola mikasa v200w",
-    "valor" : 945.00,
+    "valor" : "945.00",
     "frete-gratis" : true,
     "cores-disponiveis": 1,
     "imagem": "img/mikasa.jpg",
