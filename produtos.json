@@ -5,7 +5,9 @@
     "frete-gratis" : true,
     "cores-disponiveis": 2,
     "imagem" : "img/mizuno wave momentum 3.webp",
-    "img_class" : "square-img"
+    "img_class" : "square-img",
+    "link_produto" : "https://www.mizuno.com.br/tenis-de-volei-unissex-mizuno-wave-momentum-3-102151003-3-170/p?idsku=35340&gad_source=1&gclid=Cj0KCQjw3bm3BhDJARIsAKnHoVVXlgWwE9Kp8BrPbiw_pyi5OYgSXJ0u5fVUCGnTO8aUR3Flkv324uUaArwFEALw_wcB"
+    
 },
 {
     "nome": "Tênis Nike React Hyperset",
@@ -13,7 +15,8 @@
     "frete-gratis" : true,
     "cores-disponiveis": 5,
     "imagem" : "img/nike-hyperset.jpeg",
-    "img_class" : "long-rec-img"
+    "img_class" : "long-rec-img",
+    "link_produto" : "https://www.amazon.com.br/React-Hyperset-Volleyball-nkCI2955-010/dp/B0BDXTDCW5"
 },
 {
     "nome": "Camisa Praia Grande",
@@ -21,7 +24,8 @@
     "frete-gratis" : false,
     "cores-disponiveis": 1,
     "imagem": "img/camisapraiagrande.png",
-    "img_class" : "tall-rec-img"
+    "img_class" : "tall-rec-img",
+    "link_produto" : "https://www.instagram.com/praiagrandevolei/"
 },
 {
     "nome": "Bola mikasa v200w",
@@ -29,6 +33,7 @@
     "frete-gratis" : true,
     "cores-disponiveis": 1,
     "imagem": "img/mikasa.jpg",
-    "img_class" : "square-img"
+    "img_class" : "square-img",
+    "link_produto" : "https://www.mercadolivre.com.br/mikasa-bola-vlei-200w-aprovada-fivb-e-cbv-com-nf/p/MLB39292848?item_id=MLB5055623212&from=gshop&matt_tool=66649777&matt_word=&matt_source=google&matt_campaign_id=14302214874&matt_ad_group_id=126141901825&matt_match_type=&matt_network=g&matt_device=c&matt_creative=542969653803&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735128761&matt_product_id=MLB39292848-product&matt_product_partition_id=1818583780944&matt_target_id=pla-1818583780944&cq_src=google_ads&cq_cmp=14302214874&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gclid=Cj0KCQjw3bm3BhDJARIsAKnHoVXBNR-rM_P3pxkcMdtrBFvMUD4Cnn3gCK91osMy2pMeyTSWjCFQoboaAsKMEALw_wcB"
 }
 ]
